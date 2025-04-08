@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     "tracker",
     "rest_framework",
     "corsheaders",
+    "djongo",
 ]
 
 MIDDLEWARE = [
